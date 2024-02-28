@@ -54,7 +54,7 @@ public class ReadExcel {
 
 		// Import excel sheet
 
-		File src = new File("/Users/Poojitha/eclipse/Axis/TestData.xlsx");
+		File src = new File("/Users/Poojitha/eclipse/DataDriven1/TestData (1).xlsx");
 
 		// load the file
 
@@ -101,4 +101,3 @@ public class ReadExcel {
 
  
 }
-
